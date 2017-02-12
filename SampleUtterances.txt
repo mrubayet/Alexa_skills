@@ -1,9 +1,0 @@
-YesIntent yes
-YesIntent sure
-YesIntent of course
-YesIntent to tell pass report
-YesIntent to give pass report
-YesIntent for pass report
-NoIntent No
-NoIntent bye
-NoIntent Not now
